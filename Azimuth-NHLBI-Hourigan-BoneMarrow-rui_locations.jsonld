@@ -1,0 +1,1492 @@
+[
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/381c4016-0d43-4337-8cc3-1a420ebcca4b_NHLBI_Female_registration-data-10_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-10",
+    "description": "registration-data-10",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/381c4016-0d43-4337-8cc3-1a420ebcca4b_NHLBI_Female_registration-data-10_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-10",
+        "description": "registration-data-10",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/381c4016-0d43-4337-8cc3-1a420ebcca4b",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/381c4016-0d43-4337-8cc3-1a420ebcca4b_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/381c4016-0d43-4337-8cc3-1a420ebcca4b_NHLBI_Female_registration-data-10_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-10",
+            "descripition": "registration-data-10",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/1ddca339-43f3-499e-be80-316281a22bc8_NHLBI_Male_registration-data-11_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-11",
+    "description": "registration-data-11",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/1ddca339-43f3-499e-be80-316281a22bc8_NHLBI_Male_registration-data-11_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-11",
+        "description": "registration-data-11",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/1ddca339-43f3-499e-be80-316281a22bc8",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/1ddca339-43f3-499e-be80-316281a22bc8_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/1ddca339-43f3-499e-be80-316281a22bc8_NHLBI_Male_registration-data-11_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-11",
+            "descripition": "registration-data-11",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/2dd0ccd4-58c7-488a-82d6-189968683db5_NHLBI_Male_registration-data-12_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-12",
+    "description": "registration-data-12",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/2dd0ccd4-58c7-488a-82d6-189968683db5_NHLBI_Male_registration-data-12_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-12",
+        "description": "registration-data-12",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/2dd0ccd4-58c7-488a-82d6-189968683db5",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/2dd0ccd4-58c7-488a-82d6-189968683db5_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/2dd0ccd4-58c7-488a-82d6-189968683db5_NHLBI_Male_registration-data-12_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-12",
+            "descripition": "registration-data-12",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/a357ceaf-e174-401d-a979-99a335826c65_NHLBI_Male_registration-data-13_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-13",
+    "description": "registration-data-13",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/a357ceaf-e174-401d-a979-99a335826c65_NHLBI_Male_registration-data-13_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-13",
+        "description": "registration-data-13",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/a357ceaf-e174-401d-a979-99a335826c65",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/a357ceaf-e174-401d-a979-99a335826c65_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/a357ceaf-e174-401d-a979-99a335826c65_NHLBI_Male_registration-data-13_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-13",
+            "descripition": "registration-data-13",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/d088d51e-e0d3-4502-97f3-ab45ada1b609_NHLBI_Male_registration-data-14_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-14",
+    "description": "registration-data-14",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/d088d51e-e0d3-4502-97f3-ab45ada1b609_NHLBI_Male_registration-data-14_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-14",
+        "description": "registration-data-14",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/d088d51e-e0d3-4502-97f3-ab45ada1b609",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/d088d51e-e0d3-4502-97f3-ab45ada1b609_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/d088d51e-e0d3-4502-97f3-ab45ada1b609_NHLBI_Male_registration-data-14_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-14",
+            "descripition": "registration-data-14",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/232f7aac-6a2d-49cc-8a2a-f1a12b626b58_NHLBI_Male_registration-data-15_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-15",
+    "description": "registration-data-15",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/232f7aac-6a2d-49cc-8a2a-f1a12b626b58_NHLBI_Male_registration-data-15_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-15",
+        "description": "registration-data-15",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/232f7aac-6a2d-49cc-8a2a-f1a12b626b58",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/232f7aac-6a2d-49cc-8a2a-f1a12b626b58_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/232f7aac-6a2d-49cc-8a2a-f1a12b626b58_NHLBI_Male_registration-data-15_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-15",
+            "descripition": "registration-data-15",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/2283709f-e4e9-448b-8aed-bdabdbb88e9d_NHLBI_Male_registration-data-16_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-16",
+    "description": "registration-data-16",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/2283709f-e4e9-448b-8aed-bdabdbb88e9d_NHLBI_Male_registration-data-16_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-16",
+        "description": "registration-data-16",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/2283709f-e4e9-448b-8aed-bdabdbb88e9d",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/2283709f-e4e9-448b-8aed-bdabdbb88e9d_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/2283709f-e4e9-448b-8aed-bdabdbb88e9d_NHLBI_Male_registration-data-16_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-16",
+            "descripition": "registration-data-16",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/b431a7c5-aa7e-438c-aaf5-a6a39a2e2e1e_NHLBI_Male_registration-data-17_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-17",
+    "description": "registration-data-17",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/b431a7c5-aa7e-438c-aaf5-a6a39a2e2e1e_NHLBI_Male_registration-data-17_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-17",
+        "description": "registration-data-17",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/b431a7c5-aa7e-438c-aaf5-a6a39a2e2e1e",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/b431a7c5-aa7e-438c-aaf5-a6a39a2e2e1e_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/b431a7c5-aa7e-438c-aaf5-a6a39a2e2e1e_NHLBI_Male_registration-data-17_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-17",
+            "descripition": "registration-data-17",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/28d3e361-d578-4fde-9269-8fc8ed333590_NHLBI_Male_registration-data-18_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-18",
+    "description": "registration-data-18",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/28d3e361-d578-4fde-9269-8fc8ed333590_NHLBI_Male_registration-data-18_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-18",
+        "description": "registration-data-18",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/28d3e361-d578-4fde-9269-8fc8ed333590",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/28d3e361-d578-4fde-9269-8fc8ed333590_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/28d3e361-d578-4fde-9269-8fc8ed333590_NHLBI_Male_registration-data-18_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-18",
+            "descripition": "registration-data-18",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/36bc11fc-d7ba-429f-ba4c-d859b13c2bf2_NHLBI_Male_registration-data-19_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-19",
+    "description": "registration-data-19",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/36bc11fc-d7ba-429f-ba4c-d859b13c2bf2_NHLBI_Male_registration-data-19_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-19",
+        "description": "registration-data-19",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/36bc11fc-d7ba-429f-ba4c-d859b13c2bf2",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/36bc11fc-d7ba-429f-ba4c-d859b13c2bf2_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/36bc11fc-d7ba-429f-ba4c-d859b13c2bf2_NHLBI_Male_registration-data-19_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-19",
+            "descripition": "registration-data-19",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/abee1126-b6f9-4de8-b16f-dead884067ae_NHLBI_Female_registration-data-2_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-2",
+    "description": "registration-data-2",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/abee1126-b6f9-4de8-b16f-dead884067ae_NHLBI_Female_registration-data-2_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-2",
+        "description": "registration-data-2",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/abee1126-b6f9-4de8-b16f-dead884067ae",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/abee1126-b6f9-4de8-b16f-dead884067ae_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/abee1126-b6f9-4de8-b16f-dead884067ae_NHLBI_Female_registration-data-2_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-2",
+            "descripition": "registration-data-2",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/0f7cba10-affe-4f27-a237-805a14306a64_NHLBI_Male_registration-data-20_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "registration-data-20",
+    "description": "registration-data-20",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/0f7cba10-affe-4f27-a237-805a14306a64_NHLBI_Male_registration-data-20_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-20",
+        "description": "registration-data-20",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/0f7cba10-affe-4f27-a237-805a14306a64",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0003690",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/0f7cba10-affe-4f27-a237-805a14306a64_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 194.03,
+            "y_translation": 192.743,
+            "z_translation": 53.923,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/0f7cba10-affe-4f27-a237-805a14306a64_NHLBI_Male_registration-data-20_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-20",
+            "descripition": "registration-data-20",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/c99a464b-5059-4343-ac9a-3a1be5e5ec36_NHLBI_Female_registration-data-3_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-3",
+    "description": "registration-data-3",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/c99a464b-5059-4343-ac9a-3a1be5e5ec36_NHLBI_Female_registration-data-3_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-3",
+        "description": "registration-data-3",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/c99a464b-5059-4343-ac9a-3a1be5e5ec36",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/c99a464b-5059-4343-ac9a-3a1be5e5ec36_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/c99a464b-5059-4343-ac9a-3a1be5e5ec36_NHLBI_Female_registration-data-3_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-3",
+            "descripition": "registration-data-3",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/f4b502e7-654f-4358-9015-06128644abcf_NHLBI_Female_registration-data-4_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-4",
+    "description": "registration-data-4",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/f4b502e7-654f-4358-9015-06128644abcf_NHLBI_Female_registration-data-4_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-4",
+        "description": "registration-data-4",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/f4b502e7-654f-4358-9015-06128644abcf",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/f4b502e7-654f-4358-9015-06128644abcf_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/f4b502e7-654f-4358-9015-06128644abcf_NHLBI_Female_registration-data-4_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-4",
+            "descripition": "registration-data-4",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/6ed1ed49-eb84-4461-8e36-69ca94135304_NHLBI_Female_registration-data-5_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-5",
+    "description": "registration-data-5",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/6ed1ed49-eb84-4461-8e36-69ca94135304_NHLBI_Female_registration-data-5_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-5",
+        "description": "registration-data-5",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/6ed1ed49-eb84-4461-8e36-69ca94135304",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/6ed1ed49-eb84-4461-8e36-69ca94135304_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/6ed1ed49-eb84-4461-8e36-69ca94135304_NHLBI_Female_registration-data-5_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-5",
+            "descripition": "registration-data-5",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/dbaa8abe-b1b1-43d1-9dae-5c8f970dc21e_NHLBI_Female_registration-data-6_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-6",
+    "description": "registration-data-6",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/dbaa8abe-b1b1-43d1-9dae-5c8f970dc21e_NHLBI_Female_registration-data-6_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-6",
+        "description": "registration-data-6",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/dbaa8abe-b1b1-43d1-9dae-5c8f970dc21e",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/dbaa8abe-b1b1-43d1-9dae-5c8f970dc21e_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/dbaa8abe-b1b1-43d1-9dae-5c8f970dc21e_NHLBI_Female_registration-data-6_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-6",
+            "descripition": "registration-data-6",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/6a796001-5e54-4315-9b19-55c063ebddfa_NHLBI_Female_registration-data-7_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-7",
+    "description": "registration-data-7",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/6a796001-5e54-4315-9b19-55c063ebddfa_NHLBI_Female_registration-data-7_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-7",
+        "description": "registration-data-7",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/6a796001-5e54-4315-9b19-55c063ebddfa",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/6a796001-5e54-4315-9b19-55c063ebddfa_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/6a796001-5e54-4315-9b19-55c063ebddfa_NHLBI_Female_registration-data-7_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-7",
+            "descripition": "registration-data-7",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/36d3979c-700c-4b92-a17b-a7ee0428adb4_NHLBI_Female_registration-data-8_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-8",
+    "description": "registration-data-8",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/36d3979c-700c-4b92-a17b-a7ee0428adb4_NHLBI_Female_registration-data-8_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-8",
+        "description": "registration-data-8",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/36d3979c-700c-4b92-a17b-a7ee0428adb4",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/36d3979c-700c-4b92-a17b-a7ee0428adb4_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/36d3979c-700c-4b92-a17b-a7ee0428adb4_NHLBI_Female_registration-data-8_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-8",
+            "descripition": "registration-data-8",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/d42f501b-6d8a-4950-ab0b-7c79bbd97ab3_NHLBI_Female_registration-data-9_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data-9",
+    "description": "registration-data-9",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/d42f501b-6d8a-4950-ab0b-7c79bbd97ab3_NHLBI_Female_registration-data-9_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data-9",
+        "description": "registration-data-9",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/d42f501b-6d8a-4950-ab0b-7c79bbd97ab3",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/d42f501b-6d8a-4950-ab0b-7c79bbd97ab3_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/d42f501b-6d8a-4950-ab0b-7c79bbd97ab3_NHLBI_Female_registration-data-9_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data-9",
+            "descripition": "registration-data-9",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/910c4c91-8579-4365-9f5e-1fb9d0a87b37_NHLBI_Female_registration-data_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "registration-data",
+    "description": "registration-data",
+    "link": "https://insight.jci.org/articles/view/124928#ACK",
+    "consortium_name": "NHLBI",
+    "provider_name": "NHLBI",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/910c4c91-8579-4365-9f5e-1fb9d0a87b37_NHLBI_Female_registration-data_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "registration-data",
+        "description": "registration-data",
+        "link": "https://insight.jci.org/articles/view/124928#ACK",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/910c4c91-8579-4365-9f5e-1fb9d0a87b37",
+          "@type": "SpatialEntity",
+          "creator": "Karolyn Oetjen",
+          "creator_first_name": "Karolyn",
+          "creator_last_name": "Oetjen",
+          "creation_date": "2022-05-07",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0002483",
+            "http://purl.obolibrary.org/obo/UBERON_0001273"
+          ],
+          "x_dimension": 2,
+          "y_dimension": 2,
+          "z_dimension": 10,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/910c4c91-8579-4365-9f5e-1fb9d0a87b37_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFPelvis",
+            "placement_date": "2022-05-07",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 45,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 233.838,
+            "y_translation": 174.246,
+            "z_translation": 39.372,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/910c4c91-8579-4365-9f5e-1fb9d0a87b37_NHLBI_Female_registration-data_Dataset",
+            "@type": "Dataset",
+            "label": "registration-data",
+            "descripition": "registration-data",
+            "link": "https://insight.jci.org/articles/view/124928#ACK",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

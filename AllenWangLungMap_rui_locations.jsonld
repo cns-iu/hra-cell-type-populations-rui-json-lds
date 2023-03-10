@@ -1,0 +1,150 @@
+[
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/0c1510fa-83b7-43aa-aa70-d261835ce604_LungMap_Female_AllenWangLungMap_FEMALE_tissueblock_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "AllenWangLungMap_FEMALE_tissueblock",
+    "description": "AllenWangLungMap_FEMALE_tissueblock",
+    "link": "https://elifesciences.org/articles/62522",
+    "consortium_name": "LungMap",
+    "provider_name": "LungMap",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/0c1510fa-83b7-43aa-aa70-d261835ce604_LungMap_Female_AllenWangLungMap_FEMALE_tissueblock_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "AllenWangLungMap_FEMALE_tissueblock",
+        "description": "AllenWangLungMap_FEMALE_tissueblock",
+        "link": "https://elifesciences.org/articles/62522",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/0c1510fa-83b7-43aa-aa70-d261835ce604_LungMap_Female_AllenWangLungMap_FEMALE_tissueblock_RUI",
+          "@type": "SpatialEntity",
+          "creator": "Jamie Verheyden",
+          "creator_first_name": "Jamie",
+          "creator_last_name": "Verheyden",
+          "creation_date": "2023-01-23",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.org/sig/ont/fma/fma7361",
+            "http://purl.org/sig/ont/fma/fma7360"
+          ],
+          "x_dimension": 5,
+          "y_dimension": 5,
+          "z_dimension": 3,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/0c1510fa-83b7-43aa-aa70-d261835ce604_placement_AllenWangLungMap_FEMALE_tissueblock",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFLungV1.1",
+            "placement_date": "2023-01-23",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": -101,
+            "y_rotation": 134,
+            "z_rotation": 77,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 68.135,
+            "y_translation": 104.402,
+            "z_translation": 84.071,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/0c1510fa-83b7-43aa-aa70-d261835ce604_LungMap_Female_AllenWangLungMap_FEMALE_tissueblock_Dataset",
+            "@type": "Dataset",
+            "label": "AllenWangLungMap_FEMALE_tissueblock",
+            "descripition": "AllenWangLungMap_FEMALE_tissueblock",
+            "link": "https://elifesciences.org/articles/62522",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/bb8f70e2-273f-4902-a2ce-70a110aee2ec_LungMap_Male_AllenWangLungMap_MALE_tissueblock_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "AllenWangLungMap_MALE_tissueblock",
+    "description": "AllenWangLungMap_MALE_tissueblock",
+    "link": "https://elifesciences.org/articles/62522",
+    "consortium_name": "LungMap",
+    "provider_name": "LungMap",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/bb8f70e2-273f-4902-a2ce-70a110aee2ec_LungMap_Male_AllenWangLungMap_MALE_tissueblock_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "AllenWangLungMap_MALE_tissueblock",
+        "description": "AllenWangLungMap_MALE_tissueblock",
+        "link": "https://elifesciences.org/articles/62522",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/bb8f70e2-273f-4902-a2ce-70a110aee2ec_AllenWangLungMap_MALE_tissueblock_RUI",
+          "@type": "SpatialEntity",
+          "creator": "Jamie Verheyden",
+          "creator_first_name": "Jamie",
+          "creator_last_name": "Verheyden",
+          "creation_date": "2023-01-23",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.org/sig/ont/fma/fma7361",
+            "http://purl.org/sig/ont/fma/fma7360"
+          ],
+          "x_dimension": 5,
+          "y_dimension": 5,
+          "z_dimension": 3,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/bb8f70e2-273f-4902-a2ce-70a110aee2ec_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMLung",
+            "placement_date": "2023-01-23",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": -101,
+            "y_rotation": 134,
+            "z_rotation": 77,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 49.919,
+            "y_translation": 101.788,
+            "z_translation": 110.857,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/bb8f70e2-273f-4902-a2ce-70a110aee2ec_LungMap_Male_AllenWangLungMap_MALE_tissueblock_Dataset",
+            "@type": "Dataset",
+            "label": "AllenWangLungMap_MALE_tissueblock",
+            "descripition": "AllenWangLungMap_MALE_tissueblock",
+            "link": "https://elifesciences.org/articles/62522",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  }
+]
