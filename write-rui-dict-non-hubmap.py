@@ -1,1 +1,0 @@
-write-rui-dict-non-hubmap.py

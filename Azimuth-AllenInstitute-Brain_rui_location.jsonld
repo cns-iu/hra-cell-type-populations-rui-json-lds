@@ -352,7 +352,7 @@
             "thumbnail": "assets/icons/ico-unknown.svg"
           }
         ]
-      },
+      }
     ]
   },
   { 
@@ -378,7 +378,6 @@
         "section_count": 1,
         "section_size": 10,
         "section_units": "millimeter",
-        "section_count": 1,
         "rui_location": {
           "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
           "@id": "http://purl.org/ccf/1.5/f7500931-e3b6-4aab-bed8-735619fe645e",
